@@ -1,0 +1,18 @@
+torch
+numpy
+matplotlib
+scikit-learn
+pandas
+tqdm
+metric-learn
+jeffutils
+kaleido
+plotly
+wandb
+# for RL experiments 
+stable-baselines3[extra] 
+gymnasium[mujoco]
+fire
+tyro
+tbparser
+seaborn
